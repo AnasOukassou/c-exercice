@@ -17,7 +17,7 @@ int main() {
 	}
 	printf("} \n");
 
-	//CREER UN NOUVEAU TABLEAU QUI CONTIENT LA SOMME DES DEUX TABLEAUX
+	//CREER UN NOUVEAU TABLEAU QUI CONTIENT LE PRODUIT DES DEUX TABLEAUX
 	for(int i=0; i<6; i++) {
 		nv_tab[i] = tab1[i] * tab2[i];
 	}
